@@ -1,2 +1,2 @@
-from main.py import RecordsConverter
+from main import RecordsConverter
 __all__ = ["RecordsConverter"]
