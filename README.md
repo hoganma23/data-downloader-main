@@ -8,7 +8,7 @@ hazardous events](https://github.com/COMP0016-IFRC-Team5/data-visualiser/blob/ma
 ## Installation
 
 ```bash
-git clone https://github.com/COMP0016-IFRC-Team5/data-downloader.git
+[git clone https://github.com/hoganma23/data-downloader-main.git
 cd data-processor
 ```
 
